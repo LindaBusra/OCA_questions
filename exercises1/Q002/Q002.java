@@ -1,4 +1,4 @@
-package Others.OCA.exercises.Q002;
+package Others.OCA.exercises1.Q002;
 
 public class Q002 {
 

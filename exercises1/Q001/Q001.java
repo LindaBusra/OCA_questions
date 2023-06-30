@@ -1,4 +1,4 @@
-package Others.OCA.exercises.Q001;
+package Others.OCA.exercises1.Q001;
 
 public class Q001 {
     public static void main(String[] args) {
